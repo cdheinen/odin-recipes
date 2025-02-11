@@ -1,2 +1,2 @@
-# odin-recipes
-An HTML based webpage containing various recipes
+# Odin Recipes
+This repository defines a website that contains various recipes. This was created while learning about HTML during The Odin Project Foundational Course. For more information about The Odin Project, see [The Odin Project About Page](https://www.theodinproject.com/about).
